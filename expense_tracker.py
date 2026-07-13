@@ -1,4 +1,4 @@
-# DecodeLabs Project 2 - Expense Tracker
+
 
 total = 0
 
