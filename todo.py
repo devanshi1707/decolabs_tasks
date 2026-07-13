@@ -1,5 +1,3 @@
-# DecodeLabs Project 1 - To-Do List
-
 tasks = []
 
 while True:
