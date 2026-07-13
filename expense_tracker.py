@@ -1,5 +1,3 @@
-
-
 total = 0
 
 print("===== Expense Tracker =====")
